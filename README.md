@@ -16,4 +16,3 @@
 3. Added a NoSQL database MongoDb which is hosted on MongoDB's cloud and can be connected via a connection string.
 4. Added basic authentication (email and password for every user) and authorization (JWT Tokens Signature and Verification done).
 5. Basic frontend also made, a dashboard in which each user can come and see the cards, can go to edit profile to add profile image, and update firstname and lastname.
-6. 
